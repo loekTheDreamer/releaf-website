@@ -33,7 +33,7 @@ const HeroSection = () => {
           <div className='flex-1'>
             <div className='opacity-0 animate-fade-in'>
               <h1 className='text-4xl md:text-5xl lg:text-6xl font-bold leading-tight tracking-tighter mb-6 text-white'>
-                <span className='text-releaf-green'>ReLeaf, Inc.</span>
+                <span className='text-releaf-green'>ReLeaf Financial</span>
               </h1>
               <p className='text-xl text-gray-200 mb-8 max-w-lg font-bold'>
                 Delivering Low-Cost, Sustainable Payments to Low and

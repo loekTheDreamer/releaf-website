@@ -12,7 +12,7 @@ const FooterSection = () => {
               alt='ReLeaf Logo'
               className='h-10 w-10'
             />
-            <span className='ml-2 text-xl font-medium'>ReLeaf Inc</span>
+            <span className='ml-2 text-xl font-medium'>ReLeaf Financial</span>
           </div>
           {/* <div className="flex flex-col md:flex-row md:space-x-12 space-y-4 md:space-y-0 items-center md:items-start">
             <div>
@@ -39,7 +39,7 @@ const FooterSection = () => {
           </div> */}
         </div>
         <div className='mt-8 pt-8 border-t border-gray-800 text-center md:text-left text-gray-400'>
-          <p>© 2025 ReLeaf Inc. All rights reserved.</p>
+          <p>© 2025 ReLeaf Financial. All rights reserved.</p>
         </div>
       </div>
     </footer>

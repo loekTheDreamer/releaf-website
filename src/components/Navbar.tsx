@@ -17,7 +17,7 @@ const Navbar = () => {
                   className='h-10 w-10'
                 />
                 <span className='ml-2 text-xl font-medium text-gray-900'>
-                  ReLeaf Inc
+                  ReLeaf Financial
                 </span>
               </a>
             </div>

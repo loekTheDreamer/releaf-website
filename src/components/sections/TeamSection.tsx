@@ -26,12 +26,6 @@ const TeamSection = () => {
             delay={2}
           />
           <TeamMember
-            name='Nik Cimino'
-            role='CTO'
-            image='/assets/nik.png'
-            delay={3}
-          />
-          <TeamMember
             name='Rachel Mace'
             role='Operations'
             image='/assets/rachel.png'

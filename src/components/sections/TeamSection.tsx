@@ -53,37 +53,50 @@ const TeamSection = () => {
             name='Choice Omotosho'
             role='Senior Product Design'
             image='/assets/choice.png'
-            delay={9}
+            delay={8}
           />
           <TeamMember
             name='Thomas Subias'
             role='Project Manager'
             image='/assets/thomas.png'
-            delay={10}
+            delay={9}
           />
           <TeamMember
             name='Ritesh Makan'
             role='UX/UI Automation'
             image='/assets/ritesh.png'
+            delay={10}
+          />
+          <TeamMember
+            name='Yasmin Lalani'
+            role='Partnership Development'
+            image='/assets/Yasmine.jpg'
             delay={11}
           />
+          <TeamMember
+            name='Mike McLaren'
+            role='Regional Lead: Africa'
+            image='/assets/Mike.jpg'
+            delay={12}
+          />
+
           <TeamMember
             name='Charles Snyder'
             role='Advisory'
             image='/assets/charles.png'
-            delay={12}
+            delay={13}
           />
           <TeamMember
             name='Alejandro Mesa'
             role='Country Lead: Colombia'
             image='/assets/alejandro.png'
-            delay={13}
+            delay={14}
           />
           <TeamMember
             name='Tiago Petreca'
             role='Country Lead: Brazil'
             image='/assets/tiago.png'
-            delay={14}
+            delay={15}
           />
         </div>
       </div>

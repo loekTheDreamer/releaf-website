@@ -17,9 +17,9 @@ const ContactSection = () => {
               <p className='text-xl'>
                 <strong>Email:</strong>{' '}
                 <a
-                  href='mailto:chris@surdak.com'
+                  href='mailto:hello@releaf-financial.com'
                   className='text-releaf-green hover:underline'>
-                  chris@surdak.com
+                  hello@releaf-financial.com
                 </a>
               </p>
             </div>
